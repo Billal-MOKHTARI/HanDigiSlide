@@ -1,0 +1,37 @@
+QLabel {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(231, 231, 231);
+  margin-right: 30px;
+}
+
+QMainWindow{
+    background-color: rgb(33, 0, 124);
+}
+
+QCheckBox {
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(139, 139, 139);
+
+}
+
+/* QPushButton{
+    height: 50px;
+    background-color: rgb(44, 244, 196);
+    border-radius: 20px;
+} */
+
+QTabBar::tab {
+  background-color: rgb(166, 166, 166);
+  color: rgb(255, 255, 255);
+
+}
+
+
+
+QTabBar::tab:selected,
+QTabBar::tab:hover {
+  background-color: rgb(127, 127, 127);
+}
+
