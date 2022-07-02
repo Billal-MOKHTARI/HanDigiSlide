@@ -44,5 +44,11 @@ The user fills the form and clicks on <strong>Process</strong>
 
 - The slides have to be sorted, for example : <strong>1.jpg, 2.jpg, 3.jpg, ...etc</strong>
 
-
-
+### Command lines
+Follow the steps to execute the program :
+<ol>
+  <li>Considering you're in the root of the project <strong>presentation_app</strong></li>  
+  <li>Open the <strong>terminal</strong> or <strong>cmd</strong></li>
+  <li>Change directory to <strong>handDetectorSytem</strong> by typing : <strong>cd handDetectorSytem</strong></li>
+  <li>Execute the program <strong>MainWindow.py</strong> by typing : <strong>python MainWindow.py</strong></li>
+</ol>
