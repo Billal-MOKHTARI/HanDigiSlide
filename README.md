@@ -43,6 +43,7 @@ The user fills the form and clicks on <strong>Process</strong>
 - The user shouldn't forget to choose the <strong>directory</strong> in which he put only his slides in <strong>image format</strong> in the <strong>same hard disk partition</strong> of his application.
 
 - The slides have to be sorted, for example : <strong>1.jpg, 2.jpg, 3.jpg, ...etc</strong>
+- The folder <strong>Workspace/Presentation1</strong> is an example of how the directory (which contains the slides) should look like.
 
 ### Command lines
 Follow the steps to execute the program :
